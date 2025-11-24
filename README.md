@@ -1,5 +1,5 @@
-## Hi there 👋
-
+# Hola, mi nombre es Stephanie Álvarez 👋
+### Telecommunications Engineer 💻
 <!--
 **DevStephi/devstephi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
