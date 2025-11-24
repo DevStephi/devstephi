@@ -1,5 +1,7 @@
 # Hola, mi nombre es Stephanie Álvarez 👋
 ### Telecommunications Engineer 💻
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Stephanie_Alvarez-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/stephaniealvarezrivas/)
+
 <!--
 **DevStephi/devstephi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
